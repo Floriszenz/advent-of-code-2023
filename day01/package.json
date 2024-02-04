@@ -1,0 +1,9 @@
+{
+    "name": "advent-of-code-2023-day-01",
+    "version": "0.1.0",
+    "type": "module",
+    "scripts": {
+        "main": "node main.js ../data/day01-input.txt",
+        "test": "node main.js ../data/day01-example.txt"
+    }
+}
