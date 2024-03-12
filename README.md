@@ -14,7 +14,7 @@ Solutions to the challenges of Advent of Code 2023 edition - mainly to practice 
 |   8 |       Rust        |     ✅     |
 |   9 | TypeScript (Deno) |     ✅     |
 |  10 |        Go         |     ✅     |
-|  11 | TypeScript (Bun)  |            |
+|  11 | TypeScript (Bun)  |     ✅     |
 |  12 |         ?         |            |
 |  13 |         ?         |            |
 |  14 |         ?         |            |
